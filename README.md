@@ -5,4 +5,4 @@ A sparse matrix can be represented by using TWO representations, those are as fo
 1).Triplet Representation
 2).Linked Representation
 
-# main.cpp represents a matrix by using TRIPLET REPRESENTATION of Sparse Matrix
+### main.cpp represents a matrix by using TRIPLET REPRESENTATION of Sparse Matrix
